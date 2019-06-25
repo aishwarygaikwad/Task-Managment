@@ -13,7 +13,7 @@
       <link href="css/style.css" rel='stylesheet' type='text/css' media="all">
       <!--//style sheet end here-->
       <link href="//fonts.googleapis.com/css?family=Barlow:300,400,500" rel="stylesheet">
-      <!--start script-->
+      <!--start script date validation--> 
     	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 	  	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 	  	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
@@ -112,8 +112,7 @@
          </form>
       </div>
       <div class="copy">
-         <p>©2019-2020 All Rights Reserved | Design by <a href="https://www.ayninfotech.com" target="_blank">Ayninfotech</a></p>
+         <p>©2019-2020 All Rights Reserved | Design by <a href="https://www.test.com" target="_blank">Test</a></p>
       </div>
-	   
-   </body>
+  </body>
 </html>
