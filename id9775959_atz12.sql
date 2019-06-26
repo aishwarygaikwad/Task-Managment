@@ -44,12 +44,7 @@ CREATE TABLE `employee` (
 -- Dumping data for table `employee`
 --
 
-INSERT INTO `employee` (`eid`, `ename`, `dname`, `pname`, `rto`, `status`, `pending`, `task`, `date`) VALUES
-('2019RA09', 'Kamlesh karki', 'Business Development', 'Atzcart', 'Manish Pareek', 'completed', '', 'Create Atz cart task management,create and update new feature,collaborate with team for product listing.', '2019-06-24'),
-('2019BDE18', 'Sonam Yadav', 'Business Development', 'ATZCart', 'Manish Pareek', 'completed', 's2', 'Product Listing; Apparels, Resolved issues related to websites, Meeting on ATZCart', '2019-06-24'),
-('2019MSE02', 'SMITA DEORE', 'Business development', 'Atzcart', 'Manish Pareek', 'completed', '', 'Product listing on electronic,Access Control Panel,Locks,Brackets items as well as food products.', '2019-06-24'),
-('2019MSE01', 'Makarand Jadhav', 'Business Development', 'ATZ Cart', 'Manish Pareek', 'pending', 's2', 'Worked on Product Listing of Electronics, CCTV Products.', '2019-06-24');
-COMMIT;
+/*Record*/
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
