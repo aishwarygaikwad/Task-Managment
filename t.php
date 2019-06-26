@@ -5,7 +5,7 @@ if(isset($_POST['submit']))
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "atz12";
+$dbname = "id9775959_atz12";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
